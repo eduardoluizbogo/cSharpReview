@@ -12,3 +12,4 @@ C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\
 C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\cSharpReview.pdb
 C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\cSharpReview.genruntimeconfig.cache
 C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\ref\cSharpReview.dll
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\cSharpReview.sourcelink.json

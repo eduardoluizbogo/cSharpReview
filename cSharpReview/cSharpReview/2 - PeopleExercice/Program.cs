@@ -1,4 +1,5 @@
-﻿namespace cSharpReview
+﻿//Exercício sobre acesso de atributos de classes
+namespace cSharpReview
 {
     internal class ProgramPeople
     {
