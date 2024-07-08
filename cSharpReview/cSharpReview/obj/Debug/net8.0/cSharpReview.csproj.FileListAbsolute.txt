@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\bin\Debug\net8.0\cSharpReview.exe
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\bin\Debug\net8.0\cSharpReview.deps.json
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\bin\Debug\net8.0\cSharpReview.runtimeconfig.json
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\bin\Debug\net8.0\cSharpReview.dll
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\bin\Debug\net8.0\cSharpReview.pdb
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\cSharpReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\cSharpReview.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\cSharpReview.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\cSharpReview.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\cSharpReview.dll
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\refint\cSharpReview.dll
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\cSharpReview.pdb
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\cSharpReview.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\cSharpReview\cSharpReview\cSharpReview\obj\Debug\net8.0\ref\cSharpReview.dll
