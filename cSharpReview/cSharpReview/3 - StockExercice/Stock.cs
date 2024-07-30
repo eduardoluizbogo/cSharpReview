@@ -8,6 +8,23 @@ namespace cSharpReview.StockExercice
         public double Price;
         public int Quantity;
 
+        public Stock()
+        {
+        }
+
+        public Stock(string nome, double preco)
+        {
+            Name = nome;
+            Price = preco;
+            Quantity = 0; //unnecessary
+        }
+        public Stock(string nome, double preco, int quantidade)
+        {
+            Name = nome;
+            Price = preco;
+            Quantity = quantidade;
+        }
+
         public double ValorTotalEmEstoque()
         {
             return Price * Quantity;

@@ -1,21 +1,22 @@
 ﻿using System.Globalization;
 
-//Exercício sobre métodos, ToString, Override
+//Exercício sobre métodos, ToString, Override, Constutores, Initialize directly w/out a constructor
 namespace cSharpReview.StockExercice
 {
     internal class Program
     {
         static void Main1(string[] args)
         {
-            Stock product1 = new Stock();
-
             Console.WriteLine("Entre com os dados do produto: ");
             Console.WriteLine("Nome: ");
-            product1.Name = Console.ReadLine();
+            string nome = Console.ReadLine();
             Console.WriteLine("Preco: ");
-            product1.Price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.WriteLine("Quantidade: ");
-            product1.Quantity = int.Parse(Console.ReadLine());
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Stock product1 = new Stock(nome, preco);
+
+            Stock product2 = new Stock {Name = "TV", Price = 500.0, Quantity = 5 };
+
 
             Console.WriteLine("Dados do produto: " + product1.ToString());
 
@@ -32,7 +33,6 @@ namespace cSharpReview.StockExercice
             product1.RemoverProdutos(rem);
 
             Console.WriteLine("Dados do produto: " + product1.ToString());
-
         }
     }
 }
